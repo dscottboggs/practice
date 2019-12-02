@@ -1,0 +1,10 @@
+(defn greet
+  ([] (greet "world"))
+  ([Name] (greet "Hello" Name))
+  ([msg Name] (cat '(msg ", " Name "!")))
+)
+
+;; For testing
+(assert (= "Hello, World!" (greet)))
+(assert (= "Hello, Clojure!" (greet "Clojure")))
+(assert (= "Good morning, Clojure!" (greet "Good morning" "Clojure")))

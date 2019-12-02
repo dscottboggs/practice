@@ -1,0 +1,3 @@
+(reduce (def [acc, v] acc + v), 0, (list 1 2 3 4))
+(reduce (def [v] v), 0, (list 1 2 3 4))
+(reduce (fn [acc, v] acc + v), 0, (list 1 2 3 4))

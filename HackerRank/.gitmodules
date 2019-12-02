@@ -1,0 +1,45 @@
+[submodule "AppleAndOrange"]
+	path = AppleAndOrange
+	url = git@github.com:dscottboggs/HackerRank_AppleAndOrange.git
+[submodule "AMPM"]
+	path = AMPM
+	url = git@github.com:dscottboggs/HackerRank_AMPM.git
+[submodule "ceasarCipher"]
+	path = ceasarCipher
+	url = git@github.com:dscottboggs/HackerRank_ceasarCipher.git
+[submodule "CompareTuples"]
+	path = CompareTuples
+	url = git@github.com:dscottboggs/HackerRank_CompareTuples.git
+[submodule "CppConditionalsLesson"]
+	path = CppConditionalsLesson
+	url = git@github.com:dscottboggs/HackerRank_CppConditionalsLesson.git
+[submodule "kangaroo"]
+	path = kangaroo
+	url = git@github.com:dscottboggs/HackerRank_kangaroo.git
+[submodule "NonDivisibleSubset"]
+	path = NonDivisibleSubset
+	url = git@github.com:dscottboggs/NonDivisibleSubset.git
+[submodule "panagram"]
+	path = panagram
+	url = git@github.com:dscottboggs/HackerRank_panagram.git
+[submodule "phoneNumbers"]
+	path = phoneNumbers
+	url = git@github.com:dscottboggs/HackerRank_phoneNumbers.git
+[submodule "plusMinus"]
+	path = plusMinus
+	url = git@github.com:dscottboggs/HackerRank_plusMinus.git
+[submodule "simpleArraySum"]
+	path = simpleArraySum
+	url = git@github.com:dscottboggs/HackerRank_simpleArraySum.git
+[submodule "Staircase"]
+	path = Staircase
+	url = git@github.com:dscottboggs/HackerRank_Staircase.git
+[submodule "UtopianTree"]
+	path = UtopianTree
+	url = git@github.com:dscottboggs/UtopianTree.git
+[submodule "LinkedLists"]
+	path = LinkedLists
+	url = git@github.com:dscottboggs/HackerRank_LinkedLists.git
+[submodule "electronicsShop"]
+	path = electronicsShop
+	url = git@github.com:dscottboggs/electronicsShop.git

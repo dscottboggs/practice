@@ -1,0 +1,4 @@
+/home/scott/Documents/code/exercism/cpp/grains/CMakeFiles/rebuild_cache.dir
+/home/scott/Documents/code/exercism/cpp/grains/CMakeFiles/edit_cache.dir
+/home/scott/Documents/code/exercism/cpp/grains/CMakeFiles/grains.dir
+/home/scott/Documents/code/exercism/cpp/grains/CMakeFiles/test_grains.dir

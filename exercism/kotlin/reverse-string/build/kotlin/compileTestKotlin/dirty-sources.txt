@@ -1,0 +1,1 @@
+/home/scott/Documents/code/exercism/kotlin/reverse-string/src/test/kotlin/ReverseStringTest.kt

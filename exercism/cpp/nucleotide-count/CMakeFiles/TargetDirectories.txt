@@ -1,0 +1,4 @@
+/home/scott/Documents/code/exercism/cpp/nucleotide-count/CMakeFiles/edit_cache.dir
+/home/scott/Documents/code/exercism/cpp/nucleotide-count/CMakeFiles/nucleotide-count.dir
+/home/scott/Documents/code/exercism/cpp/nucleotide-count/CMakeFiles/rebuild_cache.dir
+/home/scott/Documents/code/exercism/cpp/nucleotide-count/CMakeFiles/test_nucleotide-count.dir

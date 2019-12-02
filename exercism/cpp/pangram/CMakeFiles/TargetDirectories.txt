@@ -1,0 +1,4 @@
+/home/scott/Documents/code/exercism/cpp/pangram/CMakeFiles/edit_cache.dir
+/home/scott/Documents/code/exercism/cpp/pangram/CMakeFiles/rebuild_cache.dir
+/home/scott/Documents/code/exercism/cpp/pangram/CMakeFiles/pangram.dir
+/home/scott/Documents/code/exercism/cpp/pangram/CMakeFiles/test_pangram.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/beer-song.dir/beer_song_test.cpp.o CMakeFiles/beer-song.dir/test/tests-main.cpp.o  -o beer-song 

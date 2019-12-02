@@ -1,0 +1,4 @@
+/home/scott/Documents/code/exercism/cpp/word-count/CMakeFiles/edit_cache.dir
+/home/scott/Documents/code/exercism/cpp/word-count/CMakeFiles/word-count.dir
+/home/scott/Documents/code/exercism/cpp/word-count/CMakeFiles/rebuild_cache.dir
+/home/scott/Documents/code/exercism/cpp/word-count/CMakeFiles/test_word-count.dir

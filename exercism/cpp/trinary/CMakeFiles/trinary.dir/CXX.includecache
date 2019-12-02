@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scott/Documents/code/exercism/cpp/trinary/trinary.cpp
+trinary.h
+/home/scott/Documents/code/exercism/cpp/trinary/trinary.h
+assert.h
+-
+
+/home/scott/Documents/code/exercism/cpp/trinary/trinary.h
+experimental/optional
+-
+iostream
+-
+numeric
+-
+string
+-
+

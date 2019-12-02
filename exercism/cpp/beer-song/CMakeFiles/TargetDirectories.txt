@@ -1,0 +1,4 @@
+/home/scott/Documents/code/exercism/cpp/beer-song/CMakeFiles/rebuild_cache.dir
+/home/scott/Documents/code/exercism/cpp/beer-song/CMakeFiles/edit_cache.dir
+/home/scott/Documents/code/exercism/cpp/beer-song/CMakeFiles/beer-song.dir
+/home/scott/Documents/code/exercism/cpp/beer-song/CMakeFiles/test_beer-song.dir

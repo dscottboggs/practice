@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NaturalNumberTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2019-11-30T05:43:45" hostname="bonakomputilo" time="1.334">
+  <properties/>
+  <testcase name="mediumPerfectNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.013"/>
+  <testcase name="largeDeficientNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.61"/>
+  <testcase name="smallPerfectNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.0"/>
+  <testcase name="zeroIsNotANaturalNumber" classname="NaturalNumberTest" time="0.001"/>
+  <testcase name="smallAbundantNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.0"/>
+  <testcase name="smallestPrimeDeficientNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.0"/>
+  <testcase name="largeAbundantNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.408"/>
+  <testcase name="largePerfectNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.298"/>
+  <testcase name="smallestNonPrimeDeficientNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.0"/>
+  <testcase name="mediumAbundantNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.0"/>
+  <testcase name="negativeNumberIsNotANaturalNumber" classname="NaturalNumberTest" time="0.001"/>
+  <testcase name="mediumNumberIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.0"/>
+  <testcase name="edgeCaseWithNoFactorsOtherThanItselfIsClassifiedCorrectly" classname="NaturalNumberTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

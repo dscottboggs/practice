@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scott/Documents/code/exercism/cpp/etl/etl.cpp
+etl.h
+/home/scott/Documents/code/exercism/cpp/etl/etl.h
+iostream
+-
+
+/home/scott/Documents/code/exercism/cpp/etl/etl.h
+map
+-
+vector
+-
+
